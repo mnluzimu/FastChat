@@ -1,0 +1,1 @@
+python3 -m fastchat.serve.cli --model-path /mnt/cache/luzimu/code_generation-master/data/models/Chinese-Llama-2-7B
